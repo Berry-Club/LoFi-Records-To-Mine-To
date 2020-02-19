@@ -1,134 +1,134 @@
 {
-  "lofimusictomineto.music_disc.alittlesomething": {
+  "a_little_something": {
     "category": "record",
-    "sounds": "LoFiMusicToMineTo:a_little_something", "stream": true
+    "sounds": "lofirecordstomineto:a_little_something", "stream": true
   },
-  "lofimusictomineto.music_disc.amixofsoundandspace": {
+  "a_mix_of_sound_and_space": {
     "category": "record",
-    "sounds": "LoFiMusicToMineTo:a_mix_of_sound_and_space"
+    "sounds": "lofirecordstomineto:a_mix_of_sound_and_space", "stream": true
   },
-  "lofimusictomineto.music_disc.alone": {
+  "alone": {
     "category": "record",
-    "sounds": "LoFiMusicToMineTo:alone"
+    "sounds": "lofirecordstomineto:alone", "stream": true
   },
-  "lofimusictomineto.music_disc.faceit": {
+  "face_it": {
     "category": "record",
-    "sounds": "LoFiMusicToMineTo:face_it"
+    "sounds": "lofirecordstomineto:face_it", "stream": true
   },
-  "lofimusictomineto.music_disc.faces": {
+  "faces": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:faces"
+    "sounds:" : "lofirecordstomineto:faces", "stream": true
   },
-  "lofimusictomineto.music_disc.fallingleaves": {
+  "falling_leaves": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:falling_leaves"
+    "sounds:" : "lofirecordstomineto:falling_leaves", "stream": true
   },
-  "lofimusictomineto.music_disc.fingerpuppets": {
+  "finger_puppets": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:finger_puppets"
+    "sounds:" : "lofirecordstomineto:finger_puppets", "stream": true
   },
-  "lofimusictomineto.music_disc.firstfallssunday": {
+  "falls_first_sunday": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:first_falls_sunday"
+    "sounds:" : "lofirecordstomineto:first_falls_sunday", "stream": true
   },
-  "lofimusictomineto.music_disc.happybirthday": {
+  "happy_birthday": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:happy_birthday"
+    "sounds:" : "lofirecordstomineto:happy_birthday", "stream": true
   },
-  "lofimusictomineto.music_disc.insearchoflife": {
+  "in_search_of_life": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:in_search_of_life"
+    "sounds:" : "lofirecordstomineto:in_search_of_life", "stream": true
   },
-  "lofimusictomineto.music_disc.interdimensional": {
+  "interdimensional": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:interdimensional"
+    "sounds:" : "lofirecordstomineto:interdimensional", "stream": true
   },
-  "lofimusictomineto.music_disc.itsinside": {
+  "its_inside": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:its_inside"
+    "sounds:" : "lofirecordstomineto:its_inside", "stream": true
   },
-  "lofimusictomineto.music_disc.keyhole": {
+  "keyhole": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:keyhole"
+    "sounds:" : "lofirecordstomineto:keyhole", "stream": true
   },
-  "lofimusictomineto.music_disc.lookatthecamera": {
+  "look_at_the_camera": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:look_at_the_camera"
+    "sounds:" : "lofirecordstomineto:look_at_the_camera", "stream": true
   },
-  "lofimusictomineto.music_disc.makingways": {
+  "making_ways": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:making_ways"
+    "sounds:" : "lofirecordstomineto:making_ways", "stream": true
   },
-  "lofimusictomineto.music_disc.memoryloss": {
+  "memory_loss": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:memory_loss"
+    "sounds:" : "lofirecordstomineto:memory_loss", "stream": true
   },
-  "lofimusictomineto.music_disc.normal": {
+  "normal": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:normal"
+    "sounds:" : "lofirecordstomineto:normal", "stream": true
   },
-  "lofimusictomineto.music_disc.overhead": {
+  "overhead": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:overhead"
+    "sounds:" : "lofirecordstomineto:overhead", "stream": true
   },
-  "lofimusictomineto.music_disc.plucked": {
+  "plucked": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:plucked"
+    "sounds:" : "lofirecordstomineto:plucked", "stream": true
   },
-  "lofimusictomineto.music_disc.remember": {
+  "remember": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:remember"
+    "sounds:" : "lofirecordstomineto:remember", "stream": true
   },
-  "lofimusictomineto.music_disc.render": {
+  "render": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:render"
+    "sounds:" : "lofirecordstomineto:render", "stream": true
   },
-  "lofimusictomineto.music_disc.runningfromgiants": {
+  "running_from_giants": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:running_from_giants"
+    "sounds:" : "lofirecordstomineto:running_from_giants", "stream": true
   },
-  "lofimusictomineto.music_disc.shadowpeople": {
+  "shadow_people": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:shadow_people"
+    "sounds:" : "lofirecordstomineto:shadow_people", "stream": true
   },
-  "lofimusictomineto.music_disc.spacewhales": {
+  "space_whales": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:space_whales"
+    "sounds:" : "lofirecordstomineto:space_whales", "stream": true
   },
-  "lofimusictomineto.music_disc.survivedby...": {
+  "survived_by": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:survived_by"
+    "sounds:" : "lofirecordstomineto:survived_by", "stream": true
   },
-  "lofimusictomineto.music_disc.therethere": {
+  "there_there": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:there_there"
+    "sounds:" : "lofirecordstomineto:there_there", "stream": true
   },
-  "lofimusictomineto.music_disc.thicker": {
+  "thicker": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:thicker"
+    "sounds:" : "lofirecordstomineto:thicker", "stream": true
   },
-  "lofimusictomineto.music_disc.timerider": {
+  "time_rider": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:time_rider"
+    "sounds:" : "lofirecordstomineto:time_rider", "stream": true
   },
-  "lofimusictomineto.music_disc.turningoverrocks": {
+  "turning_over_rocks": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:turning_over_rocks"
+    "sounds:" : "lofirecordstomineto:turning_over_rocks", "stream": true
   },
-  "lofimusictomineto.music_disc.uncanny": {
+  "uncanny": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:uncanny"
+    "sounds:" : "lofirecordstomineto:uncanny", "stream": true
   },
-  "lofimusictomineto.music_disc.war": {
+  "war": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:war"
+    "sounds:" : "lofirecordstomineto:war", "stream": true
   },
-  "lofimusictomineto.music_disc.whenitrains": {
+  "when_it_rains": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:when_it_rains"
+    "sounds:" : "lofirecordstomineto:when_it_rains", "stream": true
   },
-  "lofimusictomineto.music_disc.wind": {
+  "wind": {
     "category": "record",
-    "sounds:" : "LoFiMusicToMineTo:wind"
+    "sounds:" : "lofirecordstomineto:wind", "stream": true
   }
 }
