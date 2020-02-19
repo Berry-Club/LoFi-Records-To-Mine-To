@@ -1,0 +1,134 @@
+{
+  "lofimusictomineto.music_disc.alittlesomething": {
+    "category": "record",
+    "sounds": "LoFiMusicToMineTo:a_little_something", "stream": true
+  },
+  "lofimusictomineto.music_disc.amixofsoundandspace": {
+    "category": "record",
+    "sounds": "LoFiMusicToMineTo:a_mix_of_sound_and_space"
+  },
+  "lofimusictomineto.music_disc.alone": {
+    "category": "record",
+    "sounds": "LoFiMusicToMineTo:alone"
+  },
+  "lofimusictomineto.music_disc.faceit": {
+    "category": "record",
+    "sounds": "LoFiMusicToMineTo:face_it"
+  },
+  "lofimusictomineto.music_disc.faces": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:faces"
+  },
+  "lofimusictomineto.music_disc.fallingleaves": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:falling_leaves"
+  },
+  "lofimusictomineto.music_disc.fingerpuppets": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:finger_puppets"
+  },
+  "lofimusictomineto.music_disc.firstfallssunday": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:first_falls_sunday"
+  },
+  "lofimusictomineto.music_disc.happybirthday": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:happy_birthday"
+  },
+  "lofimusictomineto.music_disc.insearchoflife": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:in_search_of_life"
+  },
+  "lofimusictomineto.music_disc.interdimensional": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:interdimensional"
+  },
+  "lofimusictomineto.music_disc.itsinside": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:its_inside"
+  },
+  "lofimusictomineto.music_disc.keyhole": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:keyhole"
+  },
+  "lofimusictomineto.music_disc.lookatthecamera": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:look_at_the_camera"
+  },
+  "lofimusictomineto.music_disc.makingways": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:making_ways"
+  },
+  "lofimusictomineto.music_disc.memoryloss": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:memory_loss"
+  },
+  "lofimusictomineto.music_disc.normal": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:normal"
+  },
+  "lofimusictomineto.music_disc.overhead": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:overhead"
+  },
+  "lofimusictomineto.music_disc.plucked": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:plucked"
+  },
+  "lofimusictomineto.music_disc.remember": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:remember"
+  },
+  "lofimusictomineto.music_disc.render": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:render"
+  },
+  "lofimusictomineto.music_disc.runningfromgiants": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:running_from_giants"
+  },
+  "lofimusictomineto.music_disc.shadowpeople": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:shadow_people"
+  },
+  "lofimusictomineto.music_disc.spacewhales": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:space_whales"
+  },
+  "lofimusictomineto.music_disc.survivedby...": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:survived_by"
+  },
+  "lofimusictomineto.music_disc.therethere": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:there_there"
+  },
+  "lofimusictomineto.music_disc.thicker": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:thicker"
+  },
+  "lofimusictomineto.music_disc.timerider": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:time_rider"
+  },
+  "lofimusictomineto.music_disc.turningoverrocks": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:turning_over_rocks"
+  },
+  "lofimusictomineto.music_disc.uncanny": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:uncanny"
+  },
+  "lofimusictomineto.music_disc.war": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:war"
+  },
+  "lofimusictomineto.music_disc.whenitrains": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:when_it_rains"
+  },
+  "lofimusictomineto.music_disc.wind": {
+    "category": "record",
+    "sounds:" : "LoFiMusicToMineTo:wind"
+  }
+}
