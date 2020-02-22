@@ -70,7 +70,7 @@ public class LoFiRecordsToMineTo {
                     createItemModRecord(new ResourceLocation("lofirecordstomineto", "space_whales"), ModSoundEvents.MUSIC_DISC_SPACE_WHALES),
                     createItemModRecord(new ResourceLocation("lofirecordstomineto", "survived_by"), ModSoundEvents.MUSIC_DISC_SURVIVED_BY),
                     createItemModRecord(new ResourceLocation("lofirecordstomineto", "there_there"), ModSoundEvents.MUSIC_DISC_THERE_THERE),
-                    createItemModRecord(new ResourceLocation("lofirecordstomineto", "thicker"), ModSoundEvents.MUSIC_DISC_THICKER),
+                    createItemModRecord(new ResourceLocation("lofirecordstomineto", "thiccer"), ModSoundEvents.MUSIC_DISC_THICKER),
                     createItemModRecord(new ResourceLocation("lofirecordstomineto", "time_rider"), ModSoundEvents.MUSIC_DISC_TIME_RIDER),
                     createItemModRecord(new ResourceLocation("lofirecordstomineto", "turning_over_rocks"), ModSoundEvents.MUSIC_DISC_TURNING_OVER_ROCKS),
                     createItemModRecord(new ResourceLocation("lofirecordstomineto", "uncanny"), ModSoundEvents.MUSIC_DISC_UNCANNY),
