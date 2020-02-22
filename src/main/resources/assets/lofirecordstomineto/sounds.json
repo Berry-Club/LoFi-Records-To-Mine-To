@@ -1,134 +1,299 @@
 {
   "a_little_something": {
     "category": "record",
-    "sounds": "lofirecordstomineto:a_little_something", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:a_little_something",
+        "stream": true
+      }
+    ]
   },
   "a_mix_of_sound_and_space": {
     "category": "record",
-    "sounds": "lofirecordstomineto:a_mix_of_sound_and_space", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:a_mix_of_sound_and_space",
+        "stream": true
+      }
+    ]
   },
   "alone": {
     "category": "record",
-    "sounds": "lofirecordstomineto:alone", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:alone",
+        "stream": true
+      }
+    ]
   },
   "face_it": {
     "category": "record",
-    "sounds": "lofirecordstomineto:face_it", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:face_it",
+        "stream": true
+      }
+    ]
   },
   "faces": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:faces", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:faces",
+        "stream": true
+      }
+    ]
   },
   "falling_leaves": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:falling_leaves", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:falling_leaves",
+        "stream": true
+      }
+    ]
   },
   "finger_puppets": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:finger_puppets", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:finger_puppets",
+        "stream": true
+      }
+    ]
   },
   "falls_first_sunday": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:first_falls_sunday", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:falls_first_sunday",
+        "stream": true
+      }
+    ]
   },
   "happy_birthday": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:happy_birthday", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:happy_birthday",
+        "stream": true
+      }
+    ]
   },
   "in_search_of_life": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:in_search_of_life", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:in_search_of_life",
+        "stream": true
+      }
+    ]
   },
   "interdimensional": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:interdimensional", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:interdimensional",
+        "stream": true
+      }
+    ]
   },
   "its_inside": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:its_inside", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:its_inside",
+        "stream": true
+      }
+    ]
   },
   "keyhole": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:keyhole", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:keyhole",
+        "stream": true
+      }
+    ]
   },
   "look_at_the_camera": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:look_at_the_camera", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:look_at_the_camera",
+        "stream": true
+      }
+    ]
   },
   "making_ways": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:making_ways", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:making_ways",
+        "stream": true
+      }
+    ]
   },
   "memory_loss": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:memory_loss", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:memory_loss",
+        "stream": true
+      }
+    ]
   },
   "normal": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:normal", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:normal",
+        "stream": true
+      }
+    ]
   },
   "overhead": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:overhead", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:overhead",
+        "stream": true
+      }
+    ]
   },
   "plucked": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:plucked", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:plucked",
+        "stream": true
+      }
+    ]
   },
   "remember": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:remember", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:remember",
+        "stream": true
+      }
+    ]
   },
   "render": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:render", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:render",
+        "stream": true
+      }
+    ]
   },
   "running_from_giants": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:running_from_giants", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:running_from_giants",
+        "stream": true
+      }
+    ]
   },
   "shadow_people": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:shadow_people", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:shadow_people",
+        "stream": true
+      }
+    ]
   },
   "space_whales": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:space_whales", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:space_whales",
+        "stream": true
+      }
+    ]
   },
   "survived_by": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:survived_by", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:survived_by",
+        "stream": true
+      }
+    ]
   },
   "there_there": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:there_there", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:there_there",
+        "stream": true
+      }
+    ]
   },
   "thicker": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:thicker", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:thicker",
+        "stream": true
+      }
+    ]
   },
   "time_rider": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:time_rider", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:time_rider",
+        "stream": true
+      }
+    ]
   },
   "turning_over_rocks": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:turning_over_rocks", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:turning_over_rocks",
+        "stream": true
+      }
+    ]
   },
   "uncanny": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:uncanny", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:uncanny",
+        "stream": true
+      }
+    ]
   },
   "war": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:war", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:war",
+        "stream": true
+      }
+    ]
   },
   "when_it_rains": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:when_it_rains", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:when_it_rains",
+        "stream": true
+      }
+    ]
   },
   "wind": {
     "category": "record",
-    "sounds:" : "lofirecordstomineto:wind", "stream": true
+    "sounds": [
+      {
+        "name":"lofirecordstomineto:wind",
+        "stream": true
+      }
+    ]
   }
 }
