@@ -32,5 +32,9 @@
     "lofirecordstomineto:war",
     "lofirecordstomineto:when_it_rains",
     "lofirecordstomineto:wind"
+  ],
+  "commented_out": [
+    "lofirecordstomineto:faces",
+    "lofirecordstomineto:keyhole"
   ]
 }
