@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "lofirecordstomineto:item/in_search_of_life"
+  }
+}
