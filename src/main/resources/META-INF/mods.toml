@@ -29,7 +29,7 @@ credits="Music by 1micah5" #optional
 authors="aaronhowser1, TheSilkMiner" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Adds 33 Music Discs that play original tracks by 1micah5.
+Adds 31 Music Discs that play original tracks by 1micah5.
 
 See more at https://soundcloud.com/lordmicah
 '''
@@ -49,6 +49,6 @@ See more at https://soundcloud.com/lordmicah
 [[dependencies.lofirecordstomineto]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.15.1,)"
+    versionRange="[1.15.2,)"
     ordering="NONE"
     side="BOTH"
