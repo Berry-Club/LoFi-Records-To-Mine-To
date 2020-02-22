@@ -63,5 +63,7 @@
   "item.lofirecordstomineto.uncanny.desc": "1micah5 - Uncanny",
   "item.lofirecordstomineto.war.desc": "1micah5 - War",
   "item.lofirecordstomineto.when_it_rains.desc": "1micah5 - When It Rains",
-  "item.lofirecordstomineto.wind.desc": "1micah5 - Wind"
+  "item.lofirecordstomineto.wind.desc": "1micah5 - Wind",
+
+  "this isn't a real lang key": "I'm adding it because somehow this file is considered a duplicate of an empty WoW addon"
 }
