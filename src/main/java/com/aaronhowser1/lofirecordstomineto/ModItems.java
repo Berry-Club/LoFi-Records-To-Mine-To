@@ -1,7 +1,6 @@
 package com.aaronhowser1.lofirecordstomineto;
 
 import net.minecraft.item.Item;
-import net.minecraft.item.Items;
 import net.minecraftforge.registries.ObjectHolder;
 
 @ObjectHolder("lofirecordstomineto")
@@ -16,7 +15,11 @@ public class ModItems {
     public static Item FALLS_FIRST_SUNDAY = null;
     public static Item HAPPY_BIRTHDAY = null;
     public static Item IN_SEARCH_OF_LIFE = null;
+
+    //Why the heck do I need this? I totally shouldn't need this, right?
+    @ObjectHolder("lofirecordstomineto:interdimensional")
     public static Item INTERDIMENSIONAL = null;
+
     public static Item ITS_INSIDE = null;
 //    public static Item KEYHOLE = null;
     public static Item LOOK_AT_THE_CAMERA = null;
