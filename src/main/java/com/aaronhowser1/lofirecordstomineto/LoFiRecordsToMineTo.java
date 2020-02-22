@@ -2,6 +2,8 @@ package com.aaronhowser1.lofirecordstomineto;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Rarity;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvent;
 import net.minecraftforge.common.MinecraftForge;
@@ -31,14 +33,18 @@ public class LoFiRecordsToMineTo {
     private void setup(final FMLCommonSetupEvent event) {
     }
 
-
-
+    public static ItemGroup LoFiGroup = new ItemGroup("lofirecordstomineto") {
+        @Override
+        public ItemStack createIcon() {
+            return new ItemStack(ModItems.INTERDIMENSIONAL);
+        }
+    };
 
     @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
     public static class RegistryEvents {
 
         private static Item createItemModRecord(ResourceLocation resourceLocation, SoundEvent soundEvent) {
-            return new ItemModRecord(0, soundEvent, (new Item.Properties().maxStackSize(1).group(ItemGroup.MISC))).setRegistryName(resourceLocation);
+            return new ItemModRecord(0, soundEvent, (new Item.Properties().maxStackSize(1).group(LoFiGroup).rarity(Rarity.RARE))).setRegistryName(resourceLocation);
         }
 
         @SubscribeEvent

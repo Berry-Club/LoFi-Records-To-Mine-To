@@ -1,6 +1,7 @@
 package com.aaronhowser1.lofirecordstomineto;
 
 import net.minecraft.item.Item;
+import net.minecraft.item.Items;
 import net.minecraftforge.registries.ObjectHolder;
 
 @ObjectHolder("lofirecordstomineto")
