@@ -9,19 +9,15 @@ public class ModItems {
     public static Item A_MIX_OF_TIME_AND_SPACE = null;
     public static Item ALONE = null;
     public static Item FACE_IT = null;
-//    public static Item FACES = null;
     public static Item FALLING_LEAVES = null;
     public static Item FINGER_PUPPETS = null;
     public static Item FALLS_FIRST_SUNDAY = null;
     public static Item HAPPY_BIRTHDAY = null;
     public static Item IN_SEARCH_OF_LIFE = null;
-
     //Why the heck do I need this? I totally shouldn't need this, right?
     @ObjectHolder("lofirecordstomineto:interdimensional")
     public static Item INTERDIMENSIONAL = null;
-
     public static Item ITS_INSIDE = null;
-//    public static Item KEYHOLE = null;
     public static Item LOOK_AT_THE_CAMERA = null;
     public static Item MAKING_WAYS = null;
     public static Item MEMORY_LOSS = null;

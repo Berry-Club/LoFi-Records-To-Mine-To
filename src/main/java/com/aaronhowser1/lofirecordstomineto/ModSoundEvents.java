@@ -10,8 +10,6 @@ public class ModSoundEvents {
     public static final SoundEvent MUSIC_DISC_A_MIX_OF_SOUND_AND_SPACE  = create(new ResourceLocation("lofirecordstomineto", "a_mix_of_sound_and_space"));
     public static final SoundEvent MUSIC_DISC_ALONE                     = create(new ResourceLocation("lofirecordstomineto", "alone"));
     public static final SoundEvent MUSIC_DISC_FACE_IT                   = create(new ResourceLocation("lofirecordstomineto", "face_it"));
-//  Commented out because it has vocals
-//  public static final SoundEvent MUSIC_DISC_FACES                     = create(new ResourceLocation("lofirecordstomineto", "faces"));
     public static final SoundEvent MUSIC_DISC_FALLING_LEAVES            = create(new ResourceLocation("lofirecordstomineto", "falling_leaves"));
     public static final SoundEvent MUSIC_DISC_FINGER_PUPPETS            = create(new ResourceLocation("lofirecordstomineto", "finger_puppets"));
     public static final SoundEvent MUSIC_DISC_FALLS_FIRST_SUNDAY        = create(new ResourceLocation("lofirecordstomineto", "falls_first_sunday"));
@@ -19,7 +17,6 @@ public class ModSoundEvents {
     public static final SoundEvent MUSIC_DISC_IN_SEARCH_OF_LIFE         = create(new ResourceLocation("lofirecordstomineto", "in_search_of_life"));
     public static final SoundEvent MUSIC_DISC_INTERDIMENSIONAL          = create(new ResourceLocation("lofirecordstomineto", "interdimensional"));
     public static final SoundEvent MUSIC_DISC_ITS_INSIDE                = create(new ResourceLocation("lofirecordstomineto", "its_inside"));
-//  public static final SoundEvent MUSIC_DISC_KEYHOLE                   = create(new ResourceLocation("lofirecordstomineto", "keyhole"));
     public static final SoundEvent MUSIC_DISC_LOOK_AT_THE_CAMERA        = create(new ResourceLocation("lofirecordstomineto", "look_at_the_camera"));
     public static final SoundEvent MUSIC_DISC_MAKING_WAYS               = create(new ResourceLocation("lofirecordstomineto", "making_ways"));
     public static final SoundEvent MUSIC_DISC_MEMORY_LOSS               = create(new ResourceLocation("lofirecordstomineto", "memory_loss"));
