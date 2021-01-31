@@ -14,7 +14,7 @@ authors="aaronhowser1, TheSilkMiner" #optional
 description='''
 Adds 31 Music Discs that play original tracks by 1micah5.
 
-See more at https://soundcloud.com/lordmicah
+See more at https://soundcloud.com/lordmicah and https://www.youtube.com/channel/UCF_Xz4U2TpkJawDGlLnBTyA
 '''
 [[dependencies.lofirecordstomineto]] #optional
     modId="forge" #mandatory
