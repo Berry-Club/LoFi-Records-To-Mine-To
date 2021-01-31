@@ -2,8 +2,8 @@ package com.aaronhowser1.lofirecordstomineto;
 
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvent;
-import net.minecraft.util.registry.Registry;
 
+@SuppressWarnings("all")
 public class ModSoundEvents {
 
     public static final SoundEvent MUSIC_DISC_A_LITTLE_SOMETHING        = create(new ResourceLocation("lofirecordstomineto", "a_little_something"));

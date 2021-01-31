@@ -4,6 +4,7 @@ import net.minecraft.item.Item;
 import net.minecraftforge.registries.ObjectHolder;
 
 @ObjectHolder("lofirecordstomineto")
+@SuppressWarnings("all")
 public class ModItems {
     public static Item A_LITTLE_SOMETHING = null;
     public static Item A_MIX_OF_TIME_AND_SPACE = null;
