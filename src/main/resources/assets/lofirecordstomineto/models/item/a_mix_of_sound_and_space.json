@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "lofirecordstomineto:item/a_mix_of_time_and_space"
+    "layer0": "lofirecordstomineto:item/a_mix_of_sound_and_space"
   }
 }
