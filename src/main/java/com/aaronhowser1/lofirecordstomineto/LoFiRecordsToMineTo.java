@@ -20,6 +20,7 @@ public class LoFiRecordsToMineTo
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModSounds.register(eventBus);
 
         eventBus.addListener(this::setup);
 
