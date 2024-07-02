@@ -1,5 +1,7 @@
 package aaronhowser.mods.lofirecordstomineto
 
+import net.minecraft.core.RegistrySetBuilder
+import net.minecraft.core.registries.Registries
 import net.neoforged.fml.common.Mod
 import org.apache.logging.log4j.LogManager
 import org.apache.logging.log4j.Logger
@@ -15,8 +17,12 @@ object LoFiRecordsToMineTo {
     init {
         LOGGER.info("I loaded!!!!")
 
+        ModItems.ITEM_REGISTRY.register(MOD_BUS)
         ModSounds.SOUND_EVENTS.register(MOD_BUS)
 
     }
+
+    val registrySetBuilder = RegistrySetBuilder()
+        .add(Registries.JUKEBOX_SONG) { ModJukeboxSongs.bootstrap(it) }
 
 }

@@ -1,11 +1,12 @@
 package aaronhowser.mods.lofirecordstomineto
 
+import net.minecraft.core.Holder
+import net.minecraft.core.Registry
+import net.minecraft.core.registries.BuiltInRegistries
 import net.minecraft.core.registries.Registries
 import net.minecraft.resources.ResourceLocation
 import net.minecraft.sounds.SoundEvent
-import net.neoforged.neoforge.registries.DeferredHolder
 import net.neoforged.neoforge.registries.DeferredRegister
-import java.util.function.Supplier
 
 object ModSounds {
 
@@ -44,12 +45,12 @@ object ModSounds {
     val WHEN_IT_RAINS = registerSoundEvent("when_it_rains")
     val WIND = registerSoundEvent("wind")
 
-    fun registerSoundEvent(name: String): DeferredHolder<SoundEvent, SoundEvent> {
-        return SOUND_EVENTS.register(name, Supplier {
-            SoundEvent.createVariableRangeEvent(
-                ResourceLocation.fromNamespaceAndPath(LoFiRecordsToMineTo.ID, name)
-            )
-        })
+    private fun registerSoundEvent(name: String): Holder.Reference<SoundEvent> {
+        return Registry.registerForHolder(
+            BuiltInRegistries.SOUND_EVENT,
+            ResourceLocation.fromNamespaceAndPath(LoFiRecordsToMineTo.ID, name),
+            SoundEvent.createVariableRangeEvent(ResourceLocation.fromNamespaceAndPath(LoFiRecordsToMineTo.ID, name))
+        )
     }
 
 }
