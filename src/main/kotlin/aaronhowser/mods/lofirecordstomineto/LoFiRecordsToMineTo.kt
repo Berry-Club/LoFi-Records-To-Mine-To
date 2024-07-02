@@ -3,6 +3,7 @@ package aaronhowser.mods.lofirecordstomineto
 import net.neoforged.fml.common.Mod
 import org.apache.logging.log4j.LogManager
 import org.apache.logging.log4j.Logger
+import thedarkcolour.kotlinforforge.neoforge.forge.MOD_BUS
 
 @Mod(LoFiRecordsToMineTo.ID)
 object LoFiRecordsToMineTo {
@@ -13,6 +14,9 @@ object LoFiRecordsToMineTo {
 
     init {
         LOGGER.info("I loaded!!!!")
+
+        ModSounds.SOUND_EVENTS.register(MOD_BUS)
+
     }
 
 }
