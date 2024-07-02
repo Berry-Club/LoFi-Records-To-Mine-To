@@ -22,7 +22,4 @@ object LoFiRecordsToMineTo {
 
     }
 
-    val registrySetBuilder = RegistrySetBuilder()
-        .add(Registries.JUKEBOX_SONG) { ModJukeboxSongs.bootstrap(it) }
-
 }
