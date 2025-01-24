@@ -2,14 +2,13 @@ package com.aaronhowser1.lofirecordstomineto;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvent;
-import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
 public class ModSounds {
 
-    public static final DeferredRegister<SoundEvent> SOUND_EVENTS = DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, LoFiRecordsToMineTo.MOD_ID);
+    public static final DeferredRegister<SoundEvent> SOUND_EVENT_REGISTRY = DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, LoFiRecordsToMineTo.MOD_ID);
 
     public static final RegistryObject<SoundEvent> MUSIC_DISC_A_LITTLE_SOMETHING = registerSoundEvent("a_little_something");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_A_MIX_OF_SOUND_AND_SPACE = registerSoundEvent("a_mix_of_sound_and_space");
@@ -44,10 +43,8 @@ public class ModSounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_WIND = registerSoundEvent("wind");
 
     public static RegistryObject<SoundEvent> registerSoundEvent(String name) {
-        return SOUND_EVENTS.register(name, () -> new SoundEvent(new ResourceLocation(LoFiRecordsToMineTo.MOD_ID, name)));
+        ResourceLocation rl = new ResourceLocation(LoFiRecordsToMineTo.MOD_ID, name);
+        return SOUND_EVENT_REGISTRY.register(name, () -> SoundEvent.createVariableRangeEvent(rl));
     }
 
-    public static void register(IEventBus eventBus) {
-        SOUND_EVENTS.register(eventBus);
-    }
 }
