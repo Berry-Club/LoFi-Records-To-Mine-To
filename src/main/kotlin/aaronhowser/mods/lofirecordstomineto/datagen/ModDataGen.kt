@@ -38,6 +38,11 @@ object ModDataGen {
             ModSoundDefinitionsProvider(output, existingFileHelper)
         )
 
+        val itemModelProvider = generator.addProvider(
+            event.includeClient(),
+            ModItemModelProvider(output, existingFileHelper)
+        )
+
     }
 
 }

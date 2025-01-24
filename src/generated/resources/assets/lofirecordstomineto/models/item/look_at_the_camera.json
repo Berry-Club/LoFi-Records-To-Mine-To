@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lofirecordstomineto:item/look_at_the_camera"
+  }
+}

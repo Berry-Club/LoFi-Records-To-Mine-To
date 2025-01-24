@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lofirecordstomineto:item/a_mix_of_sound_and_space"
+  }
+}
