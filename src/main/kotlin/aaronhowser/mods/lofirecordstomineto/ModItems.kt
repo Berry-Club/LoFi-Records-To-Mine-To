@@ -15,6 +15,12 @@ object ModItems {
         return Item(Item.Properties().stacksTo(1).rarity(Rarity.RARE).jukeboxPlayable(jukeboxSong))
     }
 
+    private fun registerRecordItem(name: String, jukeboxSong: ResourceKey<JukeboxSong>): DeferredItem<Item> {
+        val properties = Item.Properties().stacksTo(1).rarity(Rarity.RARE).jukeboxPlayable(jukeboxSong)
+
+        return ITEM_REGISTRY.registerItem(name) { Item(properties) }
+    }
+
     val A_LITTLE_SOMETHING: DeferredItem<Item> =
         ITEM_REGISTRY.registerItem("a_little_something") { jukeboxDisk(ModJukeboxSongs.A_LITTLE_SOMETHING) }
     val A_MIX_OF_SOUND_AND_SPACE: DeferredItem<Item> =
