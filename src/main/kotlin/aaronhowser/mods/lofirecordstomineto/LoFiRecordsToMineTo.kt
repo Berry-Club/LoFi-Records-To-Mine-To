@@ -1,25 +1,26 @@
 package aaronhowser.mods.lofirecordstomineto
 
-import net.minecraft.core.RegistrySetBuilder
-import net.minecraft.core.registries.Registries
+import net.minecraft.world.item.CreativeModeTabs
 import net.neoforged.fml.common.Mod
-import org.apache.logging.log4j.LogManager
-import org.apache.logging.log4j.Logger
+import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent
 import thedarkcolour.kotlinforforge.neoforge.forge.MOD_BUS
 
 @Mod(LoFiRecordsToMineTo.ID)
 object LoFiRecordsToMineTo {
     const val ID = "lofirecordstomineto"
 
-    // the logger for our mod
-    val LOGGER: Logger = LogManager.getLogger(ID)
-
     init {
-        LOGGER.info("I loaded!!!!")
-
         ModItems.ITEM_REGISTRY.register(MOD_BUS)
         ModSounds.SOUND_EVENTS.register(MOD_BUS)
 
+        MOD_BUS.addListener(::addToCreativeTab)
+    }
+
+    private fun addToCreativeTab(event: BuildCreativeModeTabContentsEvent) {
+        if (event.tabKey != CreativeModeTabs.TOOLS_AND_UTILITIES) return
+
+        val items = ModItems.ITEM_REGISTRY.entries.map { it.get().defaultInstance }
+        event.acceptAll(items)
     }
 
 }
