@@ -1,7 +1,242 @@
 {
   "a_mix_of_sound_and_space": {
     "sounds": [
-      "lofirecordstomineto:a_mix_of_sound_and_space"
+      {
+        "name": "lofirecordstomineto:a_mix_of_sound_and_space",
+        "stream": true
+      }
+    ]
+  },
+  "alone": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:alone",
+        "stream": true
+      }
+    ]
+  },
+  "face_it": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:face_it",
+        "stream": true
+      }
+    ]
+  },
+  "falling_leaves": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:falling_leaves",
+        "stream": true
+      }
+    ]
+  },
+  "falls_first_sunday": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:falls_first_sunday",
+        "stream": true
+      }
+    ]
+  },
+  "finger_puppets": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:finger_puppets",
+        "stream": true
+      }
+    ]
+  },
+  "happy_birthday": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:happy_birthday",
+        "stream": true
+      }
+    ]
+  },
+  "in_search_of_life": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:in_search_of_life",
+        "stream": true
+      }
+    ]
+  },
+  "interdimensional": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:interdimensional",
+        "stream": true
+      }
+    ]
+  },
+  "its_inside": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:its_inside",
+        "stream": true
+      }
+    ]
+  },
+  "look_at_the_camera": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:look_at_the_camera",
+        "stream": true
+      }
+    ]
+  },
+  "making_ways": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:making_ways",
+        "stream": true
+      }
+    ]
+  },
+  "memory_loss": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:memory_loss",
+        "stream": true
+      }
+    ]
+  },
+  "normal": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:normal",
+        "stream": true
+      }
+    ]
+  },
+  "overhead": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:overhead",
+        "stream": true
+      }
+    ]
+  },
+  "plucked": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:plucked",
+        "stream": true
+      }
+    ]
+  },
+  "remember": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:remember",
+        "stream": true
+      }
+    ]
+  },
+  "render": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:render",
+        "stream": true
+      }
+    ]
+  },
+  "running_from_giants": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:running_from_giants",
+        "stream": true
+      }
+    ]
+  },
+  "shadow_people": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:shadow_people",
+        "stream": true
+      }
+    ]
+  },
+  "space_whales": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:space_whales",
+        "stream": true
+      }
+    ]
+  },
+  "survived_by": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:survived_by",
+        "stream": true
+      }
+    ]
+  },
+  "there_there": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:there_there",
+        "stream": true
+      }
+    ]
+  },
+  "thicker": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:thicker",
+        "stream": true
+      }
+    ]
+  },
+  "time_rider": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:time_rider",
+        "stream": true
+      }
+    ]
+  },
+  "turning_over_rocks": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:turning_over_rocks",
+        "stream": true
+      }
+    ]
+  },
+  "uncanny": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:uncanny",
+        "stream": true
+      }
+    ]
+  },
+  "war": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:war",
+        "stream": true
+      }
+    ]
+  },
+  "when_it_rains": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:when_it_rains",
+        "stream": true
+      }
+    ]
+  },
+  "wind": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:wind",
+        "stream": true
+      }
     ]
   }
 }
