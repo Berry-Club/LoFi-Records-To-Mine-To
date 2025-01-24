@@ -12,7 +12,6 @@ public class ModSounds {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS = DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, LoFiRecordsToMineTo.MOD_ID);
 
     public static final RegistryObject<SoundEvent> MUSIC_DISC_A_LITTLE_SOMETHING = registerSoundEvent("a_little_something");
-
     public static final RegistryObject<SoundEvent> MUSIC_DISC_A_MIX_OF_SOUND_AND_SPACE = registerSoundEvent("a_mix_of_sound_and_space");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_ALONE = registerSoundEvent("alone");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_FACE_IT = registerSoundEvent("face_it");

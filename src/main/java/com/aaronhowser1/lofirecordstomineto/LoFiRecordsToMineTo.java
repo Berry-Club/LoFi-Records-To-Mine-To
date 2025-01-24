@@ -10,8 +10,7 @@ import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(LoFiRecordsToMineTo.MOD_ID)
-public class LoFiRecordsToMineTo
-{
+public class LoFiRecordsToMineTo {
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
     public static final String MOD_ID = "lofirecordstomineto";
@@ -19,7 +18,7 @@ public class LoFiRecordsToMineTo
     public LoFiRecordsToMineTo() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-        ModItems.register(eventBus);
+        ModItems.ITEMS_REGISTRY.register(eventBus);
         ModSounds.register(eventBus);
 
         eventBus.addListener(this::setup);
