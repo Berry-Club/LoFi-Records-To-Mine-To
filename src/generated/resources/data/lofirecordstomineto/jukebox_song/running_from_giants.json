@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "jukebox_song.lofirecordstomineto.running_from_giants"
+  },
+  "length_in_seconds": 120.0,
+  "sound_event": "lofirecordstomineto:running_from_giants"
+}
