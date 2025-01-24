@@ -9,9 +9,7 @@ class ModLanguageProvider(
     output: PackOutput
 ) : LanguageProvider(output, LoFiRecordsToMineTo.ID, "en_us") {
 
-    companion object {
-
-    }
+    companion object;
 
     override fun addTranslations() {
         addItems()

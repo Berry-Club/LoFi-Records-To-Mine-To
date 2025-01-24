@@ -1,5 +1,6 @@
 package aaronhowser.mods.lofirecordstomineto
 
+import aaronhowser.mods.lofirecordstomineto.datagen.ModJukeboxSongs
 import net.minecraft.resources.ResourceKey
 import net.minecraft.world.item.Item
 import net.minecraft.world.item.JukeboxSong
