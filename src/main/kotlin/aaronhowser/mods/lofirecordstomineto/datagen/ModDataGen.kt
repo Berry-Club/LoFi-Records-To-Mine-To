@@ -33,6 +33,11 @@ object ModDataGen {
             ModLanguageProvider(output)
         )
 
+        val soundDefinitionsProvider = generator.addProvider(
+            event.includeClient(),
+            ModSoundDefinitionsProvider(output, existingFileHelper)
+        )
+
     }
 
 }
