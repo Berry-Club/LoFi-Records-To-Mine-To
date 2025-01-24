@@ -30,7 +30,7 @@ object ModDataGen {
 
         val languageProvider = generator.addProvider(
             event.includeClient(),
-            ModLanguageProvider(output)
+            ModLanguageProvider(output, datapackRegistrySets.registryProvider)
         )
 
         val soundDefinitionsProvider = generator.addProvider(

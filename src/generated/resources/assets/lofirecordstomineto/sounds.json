@@ -1,4 +1,12 @@
 {
+  "a_little_something": {
+    "sounds": [
+      {
+        "name": "lofirecordstomineto:a_little_something",
+        "stream": true
+      }
+    ]
+  },
   "a_mix_of_sound_and_space": {
     "sounds": [
       {

@@ -27,6 +27,7 @@ class ModSoundDefinitionsProvider(
     }
 
     override fun registerSounds() {
+        singleSound(ModSounds.A_LITTLE_SOMETHING)
         singleSound(ModSounds.A_MIX_OF_SOUND_AND_SPACE)
         singleSound(ModSounds.ALONE)
         singleSound(ModSounds.FACE_IT)
