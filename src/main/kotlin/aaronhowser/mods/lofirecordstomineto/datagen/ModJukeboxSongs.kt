@@ -1,13 +1,13 @@
 package aaronhowser.mods.lofirecordstomineto.datagen
 
 import aaronhowser.mods.lofirecordstomineto.LoFiRecordsToMineTo
+import aaronhowser.mods.lofirecordstomineto.registry.ModSounds
 import net.minecraft.Util
 import net.minecraft.core.Holder
 import net.minecraft.core.registries.Registries
 import net.minecraft.data.worldgen.BootstrapContext
 import net.minecraft.network.chat.Component
 import net.minecraft.resources.ResourceKey
-import net.minecraft.resources.ResourceLocation
 import net.minecraft.sounds.SoundEvent
 import net.minecraft.world.item.JukeboxSong
 
@@ -16,14 +16,14 @@ object ModJukeboxSongs {
     private fun createRk(name: String): ResourceKey<JukeboxSong> {
         return ResourceKey.create(
             Registries.JUKEBOX_SONG,
-            ResourceLocation.fromNamespaceAndPath(LoFiRecordsToMineTo.ID, name)
+            LoFiRecordsToMineTo.getRl(name)
         )
     }
 
     private fun register(
         context: BootstrapContext<JukeboxSong>,
         resourceKey: ResourceKey<JukeboxSong>,
-        soundEvent: Holder.Reference<SoundEvent>,
+        soundEvent: Holder<SoundEvent>,
         lengthInSeconds: Int,
         comparatorOutput: Int
     ) {
@@ -39,6 +39,8 @@ object ModJukeboxSongs {
     }
 
     fun bootstrap(context: BootstrapContext<JukeboxSong>) {
+
+        register(context, A_LITTLE_SOMETHING, ModSounds.A_LITTLE_SOMETHING, 180, 10)
 
     }
 

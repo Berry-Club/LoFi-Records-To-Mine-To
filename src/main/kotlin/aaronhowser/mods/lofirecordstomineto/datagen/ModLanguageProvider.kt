@@ -1,7 +1,7 @@
 package aaronhowser.mods.lofirecordstomineto.datagen
 
 import aaronhowser.mods.lofirecordstomineto.LoFiRecordsToMineTo
-import aaronhowser.mods.lofirecordstomineto.ModItems
+import aaronhowser.mods.lofirecordstomineto.registry.ModItems
 import net.minecraft.data.PackOutput
 import net.neoforged.neoforge.common.data.LanguageProvider
 
